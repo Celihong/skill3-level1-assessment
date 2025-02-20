@@ -13,13 +13,12 @@ header{
     text-align: center;
 }
 #section-home {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.w3schools.com/howto/photographer.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/image\ copy.png);
   height: 40vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-
 }
 div h2 {
     text-align: center;
@@ -84,8 +83,6 @@ div h2 {
     border-radius: 8px;
     aspect-ratio: 1 / 1
 }
-
-
 .product-info {
     flex: 1;
     overflow: hidden;
